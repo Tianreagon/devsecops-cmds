@@ -1,8 +1,6 @@
-# Essential DevOps Commands
-
-[![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyuuu2Tv6cKCQZWgMbNLbIV9xUHUm3bnXww&usqp=CAU "DevOps or Release Engineering")](https://www.google.com/)
-
 # Docker - Essential Commands
+
+[![Image](https://i.redd.it/yy2amgcfwwk31.png "DevOps or Release Engineering")](https://www.google.com/)
 
 - The below are the list of essential commands needed when working directly with docker.
 
