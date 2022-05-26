@@ -1,3 +1,14 @@
+# Azure Kubernetes Service with Azure DevOps and Terraform
+
+[![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyuuu2Tv6cKCQZWgMbNLbIV9xUHUm3bnXww&usqp=CAU "DevOps or Release Engineering")](https://www.google.com/)
+
+## Course Modules
+
+| S.No | Azure Service Name                                                          |
+| ---- | --------------------------------------------------------------------------- |
+| 1.   | Create Azure AKS Cluster using Azure Portal                                 |
+| 2.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
+
 # Docker - Essential Commands
 
 - The below are the list of essential commands we are in need
