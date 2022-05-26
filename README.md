@@ -2,16 +2,16 @@
 
 [![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyuuu2Tv6cKCQZWgMbNLbIV9xUHUm3bnXww&usqp=CAU "DevOps or Release Engineering")](https://www.google.com/)
 
-## Course Modules
+## Essential DevOps Commands
 
-| S.No | Azure Service Name                                                          |
-| ---- | --------------------------------------------------------------------------- |
-| 1.   | Create Azure AKS Cluster using Azure Portal                                 |
-| 2.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
+| S.No | Command Service Name                                                                            |
+| ---- | ----------------------------------------------------------------------------------------------- |
+| 0.   | Introduction - Still to come...                                                                 |
+| 1.   | [Docker Fundamentals](https://github.com/Tianreagon/devsecops-cmds#docker---essential-commands) |
 
 # Docker - Essential Commands
 
-- The below are the list of essential commands we are in need
+- The below are the list of essential commands needed when working directly with docker.
 
 | Commands                                                               | Description                                                     |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------- |
