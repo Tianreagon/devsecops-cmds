@@ -1,8 +1,8 @@
-# Azure Kubernetes Service with Azure DevOps and Terraform
+# Essential DevOps Commands
 
 [![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyuuu2Tv6cKCQZWgMbNLbIV9xUHUm3bnXww&usqp=CAU "DevOps or Release Engineering")](https://www.google.com/)
 
-## Essential DevOps Commands
+## Table of Contents
 
 | S.No | Command Service Name                                                                            |
 | ---- | ----------------------------------------------------------------------------------------------- |
@@ -32,3 +32,38 @@
 | docker stats                                                           | Display a live stream of container(s) resource usage statistics |
 | docker top container-id or name                                        | Display the running processes of a container                    |
 | docker version                                                         | Show the Docker version information                             |
+
+### List Running Containers
+
+```
+docker ps
+docker ps -a
+docker ps -a -q
+```
+
+### Connect to Container Terminal
+
+```
+docker exec -it <container-name> /bin/sh
+```
+
+### Container Stop, Start
+
+```
+docker stop <container-name>
+docker start  <container-name>
+```
+
+### Remove Container
+
+```
+docker stop <container-name>
+docker rm <container-name>
+```
+
+### Remove Image
+
+```
+docker images
+docker rmi  <image-id>
+```
